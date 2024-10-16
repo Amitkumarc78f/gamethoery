@@ -49,7 +49,7 @@ These routes manage court creation by the admin and allow users to check for cou
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Booking-App
+   cd Booking App
    ```
 3. Install dependencies:
    ```bash
@@ -58,7 +58,19 @@ These routes manage court creation by the admin and allow users to check for cou
 
 5. Start the application:
    ```bash
-   npm start
+   node index.js
    ```
+   
+Frontend Setup 
+ (React.js):
+
+Navigate to the frontend directory.
+
+Install the frontend dependencies:
+
+
+npm install
+Run the frontend app:
+npm run dev
 
 
