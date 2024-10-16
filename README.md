@@ -55,12 +55,7 @@ These routes manage court creation by the admin and allow users to check for cou
    ```bash
    npm install
    ```
-4. Set up environment variables in the `.env` file:
-   ```bash
-   PORT=3030
-   MONGO_URI=mongodb+srv://amitc78f:amit@cluster0.8onyw.mongodb.net/
-   JWT_SECRET= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWV9.TJVA95OrM7E2cBab30RMHrHDcEfxjoYZgeFONFh7HgQ
-   ```
+
 5. Start the application:
    ```bash
    npm start
