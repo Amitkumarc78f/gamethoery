@@ -1,8 +1,12 @@
 ID NUMBER: IIT2021054
+hosted site links:
+frontend: https://frontend1-firg.onrender.com
+backend: https://backendr-14he.onrender.com
+
 # Court Booking App
 
 ## Overview
-The Court Booking App allows users to easily reserve sports courts like tennis, badminton, basketball, and more, across various cities. With an intuitive interface, users can quickly find available courts, secure their bookings, and enjoy flexible payment options.
+The Court Booking App allows users to easily reserve sports courts like tennis, badminton, basketball, and more, across various cities. With an intuitive interface, users can quickly find available courts, secure their bookings.
 
 ## Features
 - **Browse Courts**: Search and filter courts by sport and location.
@@ -67,8 +71,6 @@ Frontend Setup
 Navigate to the frontend directory.
 
 Install the frontend dependencies:
-
-
 npm install
 Run the frontend app:
 npm run dev
